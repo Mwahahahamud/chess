@@ -27,3 +27,4 @@ Piece: It is now an abstract class.
 
 New classes:
 There is no "original" code; everything was copied and pasted from Piece into the respective class. 
+Constructor changes: The piece name is no longer needed to be passed as an argument, as it is obvious the name when a Rook, Pawn, etc. is created.
